@@ -74,5 +74,6 @@ button {
   color: #fff;
   background: #330099;
   border: 1px solid #330099;
+  cursor: pointer;
 }
 </style>
